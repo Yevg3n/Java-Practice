@@ -12,6 +12,10 @@ public class SeparateDigits {
     private static Scanner input;
 
     public static boolean isNumeric( ) {
+        // This is a new change that I am practicing with
+        int e = 0;
+        int y = 5;
+
 
         while(!input.hasNextInt( )) {
             System.out.print("Invalid Input, try again: ");
