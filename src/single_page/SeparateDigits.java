@@ -15,6 +15,7 @@ public class SeparateDigits {
         // This is a new change that I am practicing with
         int e = 0;
         int y = 5;
+        int z = 12;
 
 
         while(!input.hasNextInt( )) {
